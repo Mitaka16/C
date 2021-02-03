@@ -1,0 +1,19 @@
+printf() pour afficher un message en cmd
+scanf() pour demander a l'utilisateur d'ecrire
+\n pour passer a la ligne
+\t pour decaler le texte
+// pour ecrire un commentaire court
+/* */ pour ecrire un long commentaire
+variables: signed long: -127, 127
+	   int: -32 767, 32 767
+	   long: -2 147 483 647, 2 147 483 647
+	   float: -1 x1037, 1 x1037
+	   double: -1 x1037, 1 x1037
+
+
+type de variables: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14118-un-monde-de-variables#/id/r-2187638
+variable =/ contante: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14118-un-monde-de-variables#/id/r-2187781
+symbole pour indiquer une variable: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14118-un-monde-de-variables#/id/r-2187785
+fonction mathematiques: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14337-une-bete-de-calcul#/id/r-2188029
+les conditions ( IF, ELSE... : https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14612-les-conditions
+faire une boucle: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/14722-les-boucles
